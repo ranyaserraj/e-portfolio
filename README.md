@@ -1,6 +1,6 @@
 # 🌟 Portfolio Personnel - Ranya Serraj Andaloussi
 
-Portfolio web personnel présentant mon parcours en Data Science & IoT à l'ENSIAS.
+Portfolio web personnel présentant mon parcours à l'ENSIAS.
 
 ## 🌐 Voir le portfolio
 
