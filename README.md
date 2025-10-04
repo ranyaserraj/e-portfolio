@@ -1,70 +1,69 @@
 # 🌟 Portfolio Personnel - Ranya Serraj Andaloussi
 
-Portfolio web moderne développé avec Next.js 14, présentant mon parcours à l'ENSIAS.
+Portfolio web moderne développé en HTML, CSS et JavaScript, présentant mon parcours à l'ENSIAS.
 
 ## 🌐 Voir le portfolio
 
-**👀 [Déployer sur Vercel](https://vercel.com/new)** *(Recommandé pour Next.js)*
-
-**💻 Test local :** Clonez le repository et lancez `npm run dev`
+**👀 [Visitez mon portfolio](https://ranyaserraj.github.io/e-portfolio/)**
 
 ## ⚙️ Technologies
 
 **Frontend :** 
-- Next.js 14 avec App Router
-- TypeScript
-- Tailwind CSS
-- shadcn/ui Components
-- Framer Motion (animations)
-- Lucide React (icônes)
+- HTML5
+- CSS3 (Tailwind CSS)
+- JavaScript (Vanilla)
+- Design responsive et moderne
+- Animations CSS
 
 ## 🚀 Installation locale
 
 ```bash
 git clone https://github.com/ranyaserraj/e-portfolio.git
 cd e-portfolio
-npm install
-# ou
-pnpm install
-npm run dev
-# ou
-pnpm dev
+# Ouvrir index.html dans votre navigateur
 ```
 
-Puis ouvrir [http://localhost:3000](http://localhost:3000) dans votre navigateur.
-
-## 🚀 Déploiement
-
-### Vercel (Recommandé)
-1. Allez sur [vercel.com](https://vercel.com)
-2. Connectez votre compte GitHub
-3. Importez ce repository
-4. Déploiement automatique ! ✨
-
-### Netlify
-1. Allez sur [netlify.com](https://netlify.com)
-2. Connectez GitHub et déployez
-
-### GitHub Pages (Limité)
-GitHub Pages ne supporte pas Next.js complet, seulement les exports statiques.
+Ou simplement ouvrir le fichier `index.html` dans votre navigateur préféré.
 
 ## 📱 Fonctionnalités
 
 - ✅ Design responsive et moderne
-- ✅ Mode sombre/clair
-- ✅ Animations fluides
-- ✅ Navigation smooth
-- ✅ Sections : À propos, Expérience, Éducation, Projets, Compétences, Certifications, Activités, Contact
-- ✅ Optimisé pour les performances
+- ✅ Navigation smooth avec scroll
+- ✅ Effet de transparence sur la navbar
+- ✅ Cartes avec animations hover
+- ✅ Timeline pour l'expérience professionnelle
+- ✅ Section projets avec liens GitHub
+- ✅ Informations de contact interactives
+- ✅ Optimisé pour tous les appareils
 
-## 🛠️ Scripts disponibles
+## 📋 Sections du Portfolio
 
-```bash
-npm run dev          # Démarrer le serveur de développement
-npm run build        # Construire pour la production
-npm run start        # Démarrer le serveur de production
-npm run lint         # Linter le code
+- **À propos** : Présentation personnelle avec photo
+- **Compétences** : Technologies maîtrisées (DevOps, Web, Data Science, etc.)
+- **Éducation** : Parcours académique (ENSIAS, Classes Préparatoires)
+- **Expérience** : Stages et projets professionnels
+- **Projets** : Projets académiques avec liens GitHub
+- **Certifications** : Certifications professionnelles
+- **Activités** : Engagement associatif
+- **Contact** : Informations de contact
+
+## 🛠️ Structure du projet
+
 ```
+e-portfolio/
+├── index.html          # Page principale
+├── ranya_.jpg         # Photo de profil
+└── README.md          # Documentation
+```
+
+## 🎨 Design
+
+Le portfolio utilise :
+- **Tailwind CSS** pour le styling
+- **Variables CSS** pour la cohérence des couleurs
+- **Animations CSS** pour les interactions
+- **JavaScript vanilla** pour la navigation smooth
+- **Design responsive** avec mobile-first
 
 ## 👩‍💻 Contact
 
@@ -73,4 +72,4 @@ npm run lint         # Linter le code
 
 ---
 
-*Développé avec ❤️ en utilisant Next.js et Tailwind CSS*
+*Développé avec ❤️ en utilisant HTML, CSS et JavaScript*
