@@ -4,7 +4,9 @@ Portfolio web moderne développé avec Next.js 14, présentant mon parcours à l
 
 ## 🌐 Voir le portfolio
 
-**👀 Pour voir le portfolio, clonez le repository et lancez `npm run dev`**
+**👀 [Déployer sur Vercel](https://vercel.com/new)** *(Recommandé pour Next.js)*
+
+**💻 Test local :** Clonez le repository et lancez `npm run dev`
 
 ## ⚙️ Technologies
 
@@ -30,6 +32,21 @@ pnpm dev
 ```
 
 Puis ouvrir [http://localhost:3000](http://localhost:3000) dans votre navigateur.
+
+## 🚀 Déploiement
+
+### Vercel (Recommandé)
+1. Allez sur [vercel.com](https://vercel.com)
+2. Connectez votre compte GitHub
+3. Importez ce repository
+4. Déploiement automatique ! ✨
+
+### Netlify
+1. Allez sur [netlify.com](https://netlify.com)
+2. Connectez GitHub et déployez
+
+### GitHub Pages (Limité)
+GitHub Pages ne supporte pas Next.js complet, seulement les exports statiques.
 
 ## 📱 Fonctionnalités
 
