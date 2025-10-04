@@ -4,7 +4,7 @@ Portfolio web moderne développé avec Next.js 14, présentant mon parcours à l
 
 ## 🌐 Voir le portfolio
 
-**👀 [Visitez mon portfolio](https://ranya-portfolio.vercel.app)** *(À déployer)*
+**👀 Pour voir le portfolio, clonez le repository et lancez `npm run dev`**
 
 ## ⚙️ Technologies
 
